@@ -1,15 +1,15 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Arjun's Personal Website
-keywords: Arjun Sharma,github,gh-pages
+title: Arjun Sharma Blog
+description: Arjun Sharma personal blog.
+keywords: Arjun, Sharma, Arjun Sharma, arjunssharma,github,gh-pages
 baseurl:
 url: https://arjunssharma.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-  author: Arjun Sharma # change following line to your infomation.
   name: Arjun Sharma  # Be used at blog posts' author.
   first_name: Arjun  # Be used at index page about me section.
   last_name: Sharma  # Be used at index page about me section.
