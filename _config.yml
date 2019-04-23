@@ -10,7 +10,7 @@ img_path: /static/assets/img/blog
 
 # author -- index page "about me" section
 author:  # Arjun-Sharma
-  name: Arjun-Sharma 
+  name: Arjun Sharma 
   first_name: Arjun 
   last_name: Sharma 
   avatar: /static/assets/img/landing/Arjun.jpg
