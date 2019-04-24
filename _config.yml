@@ -21,9 +21,9 @@ author:  # Arjun-Sharma
   cv: https://arjunssharma.github.io/static/assets/Arjun_Sharma_Resume.pdf
   skill_icon1: #http://fizzed.com/oss/font-mfizz
     - name: icon-apache
-    - name: fa-aws
+    - name: icon-aws
   skill_icon2:
-    - name: fa-hadoop
+    - name: icon-hadoop
     - name: icon-java-bold
   desc: Software Engineer 
 
