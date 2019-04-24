@@ -15,15 +15,30 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Shutterfly Inc.
     i18n: company_b
   desc:
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May 2018 - August 2018
     i18n: company_b_date
   job:
     detail: Full Stack Developer
     i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: IBM
+    i18n: company_c
+  desc:
+    detail: 
+    i18n: company_b_desc
+  date:
+    detail: February 2019 - Present
+    i18n: company_c_date
+  job:
+    detail: Software Developer Co-Op
+    i18n: company_c_job
   icon: fa-plus-square
