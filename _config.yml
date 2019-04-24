@@ -19,7 +19,7 @@ author:  # Arjun-Sharma
   facebook_username: arjunssharma1992 
   email: arjunssharma1992@gmail.com
   cv: https://arjunssharma.github.io/static/assets/Arjun_Sharma_Resume.pdf
-  skill_icon1:
+  skill_icon1: #http://fizzed.com/oss/font-mfizz
     - name: icon-apache
     - name: fa-aws
   skill_icon2:
