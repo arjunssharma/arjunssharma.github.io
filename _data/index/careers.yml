@@ -18,7 +18,7 @@
     detail: Shutterfly Inc.
     i18n: company_b
   desc:
-    detail: 
+    detail: As a part of the Data Architecture and Engineering Team, I had the responsibility for designing and construction of efficient data sourcing platform which is used by different key stakeholders at the company. The data infrastructure consists of creating data pipelines using map-reduce systems, as well as the technology to report on their performance, validation of data, and generalized automation of tasks. I worked with the latest in industry standard Java technology at the core, and the latest trends in cloud computing (i.e. EMR, AWS Data Pipeline, EC2, S3, Athena, CloudFormation, Kinesis Streams, VPC, DynamoDB). Some of my duties include design and development of data infrastructure components, contributing to best practices by helping author unit tests and automated validation of data, working with middleware, enterprise buses and queues to help make services highly scalable and asynchronous in nature, ensuring services are highly scalable to handle large traffic with very low latency.
     i18n: company_b_desc
   date:
     detail: May 2018 - August 2018
