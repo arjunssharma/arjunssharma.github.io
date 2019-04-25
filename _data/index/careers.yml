@@ -18,7 +18,15 @@
     detail: Shutterfly Inc.
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: * Collaborate with product managers, engineers, operations, and other members of the project team in the requirements specification, feasibility analysis, detailed engineering analysis, and launch planning.
+* Design and development of data infrastructure components.
+* Contribute to best practices by helping author unit tests and automated validation of data.
+* Work with middleware, enterprise buses, and queues to help make services highly scalable and asynchronous in nature.
+* Participate in design reviews of infrastructure and other components.
+* Ensure services are highly scalable to handle large traffic with very low latency.
+* Worked with Data Architecture team with a focus on building scalable data pipelines to process Shutterfly’s image and user data to help the business make data-driven decisions
+* Implemented a process to extract and transform information about user created personalized projects which helped the data science team to train their recommendation models better.
+* Designed and Implemented a Proof of Concept to build a near real-time streaming data pipeline to process data using AWS Kinesis Streams.
     i18n: company_b_desc
   date:
     detail: May 2018 - August 2018
