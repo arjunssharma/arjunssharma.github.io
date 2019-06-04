@@ -17,7 +17,7 @@ author:  # Arjun-Sharma
   github_username: arjunssharma  
   linkedin_id: arjunssharma 
   facebook_username: arjunssharma1992 
-  email: arjunssharma1992@gmail.com
+  email: arjun.shashikant.sharma@gmail.com
   cv: https://arjunssharma.github.io/static/assets/Arjun_Sharma_Resume.pdf
   skill_icon1: #http://fizzed.com/oss/font-mfizz
     - name: icon-apache
@@ -25,7 +25,7 @@ author:  # Arjun-Sharma
   skill_icon2:
     - name: icon-hadoop
     - name: icon-java-bold
-  desc: Software Engineer 
+  desc: Incoming Software Development Engineer at Amazon Web Services 
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
