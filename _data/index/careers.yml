@@ -11,6 +11,7 @@
     i18n: company_a_date
   job:
     detail: Software Engineer
+    location: Mumbai
     i18n: company_a_job
   icon: fa-plus-square
 
