@@ -13,8 +13,3 @@
   gh_user: arjunssharma
   repo: expertiza
   desc: Expertiza is a web application where students can submit and peer-review learning objects (articles, code, web sites, etc). Instructors use this portal for posting assignments and grading them. Students use it for discussion forums and managing their academic projects. The Expertiza project is supported by the National Science Foundation. 
-  
-- name: Distributed Scoreboard
-  gh_user: arjunssharma
-  repo: Distributed-Scoreboard
-  desc: Designed distributed gameboard using ZooKeeper protocol having two types of process: i) a watcher which runs continuously displaying most recent scores, and highest scores along with if the player is online or not and updating the lists in real time. ii) a player which performs one of the three actions: join, leave, or post a score.
