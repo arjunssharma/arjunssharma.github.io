@@ -29,6 +29,9 @@
   job:
     detail: Software Engineer Intern
     i18n: company_b_job
+  location:
+    detail: Santa Clara, California
+    i18n: company_b_location    
   icon: fa-plus-square
 
 - name:
@@ -43,6 +46,9 @@
   job:
     detail: Software Developer Co-Op
     i18n: company_c_job
+  location:
+    detail: Durham, North Carolina
+    i18n: company_c_location
   icon: fa-plus-square
 
 - name:
@@ -57,4 +63,7 @@
   job:
     detail: Software Development Engineer
     i18n: company_d_job
+  location:
+    detail: Washington DC Metro Area
+    i18n: company_d_location 
   icon: fa-plus-square
