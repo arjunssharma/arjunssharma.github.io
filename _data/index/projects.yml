@@ -23,3 +23,8 @@
   gh_user: arjunssharma
   repo: Chord-Protocol
   desc: Implemented Chord protocol using Java with reference to a research paper named Chord, A scalable peer-to-peer lookup service for internet applications (https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf).
+
+- name: Citation-KNN
+  gh_user: arjunssharma
+  repo: Citation-KNN
+  desc: Implemented Citation KNN which is one of the most popular algorithms for solving multiple-instance learning (MIL) problems. It is a lazy learning algorithm which tries to classify a bag of instances by using labelled bags of instances.
