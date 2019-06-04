@@ -49,7 +49,7 @@
   repo: Assignment-Management-System
   desc: Designed the relational database based on objectives of this application and visualized the primary structure with E-R diagram. Implemented an online/offline portal for management of homework assignments and submissions for different courses taken by student using SQL and Java.
   
-- name: 
+- name: SimpleDB - Buffer Management Implementation
   gh_user: arjunssharma
-  repo: 
-  desc: Designed the relational database based on objectives of this application and visualized the primary structure with E-R diagram. Implemented an online/offline portal for management of homework assignments and submissions for different courses taken by student using SQL and Java.
+  repo: SimpleDB
+  desc: Implemented the Least Recently Used (LRU) replacement policy for buffer management in a multi-user transactional database (SimpleDB) for improved performance. This policy aims at making a rough prediction of future hits for the pages in buffer and reduces page faults to an extent. Implemented Map interface and Log Sequence Numbers (LSNs) for faster retrieval of pages.
