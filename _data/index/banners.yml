@@ -5,14 +5,14 @@
 - src: landing/arjun1.jpg
   title: first banner image
 
-- src: landing/arjun2.jpg
+- src: landing/arjun2
   title: second banner image
   
-- src: landing/arjun3.jpg
+- src: landing/arjun3
   title: third banner image
 
-- src: landing/arjun4.jpg
+- src: landing/arjun4
   title: forth banner image
 
-- src: landing/arjun5.jpg
+- src: landing/arjun5
   title: fifth banner image  
