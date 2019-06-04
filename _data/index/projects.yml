@@ -6,7 +6,8 @@
   gh_user: arjunssharma
   repo: Stock-Prediction-Using-Twitter-Sentiment-Analysis
 #  img: /static/assets/img/landing/jekyll.png
-  desc: |-
+  desc:
+- | 
     This project is my project. ccccc \n
     aaaaa \n
     I use javescript to get repo's information all my repos have only one request.
