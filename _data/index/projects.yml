@@ -1,14 +1,11 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Twitter Sentiment Analysis
-  i18n: jalpc
+- name: Stock Prediction Using Twitter Sentiment Analysis
   gh_user: arjunssharma
   repo: Stock-Prediction-Using-Twitter-Sentiment-Analysis
 #  img: /static/assets/img/landing/jekyll.png
-  desc: |+
-    hi
-    hello
+  desc: Performed real-time sentiment analysis of large volume and variety of data using Apache Flume, MapReduce, Hive and predicted stock prices using Rule-Based Model.
   
 - name: Distributed Gameboard
 #  i18n: cpython
