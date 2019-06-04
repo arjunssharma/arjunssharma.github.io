@@ -28,3 +28,13 @@
   gh_user: arjunssharma
   repo: Citation-KNN
   desc: Implemented Citation KNN which is one of the most popular algorithms for solving multiple-instance learning (MIL) problems. It is a lazy learning algorithm which tries to classify a bag of instances by using labelled bags of instances.
+
+- name: Disk-Based Mergesort
+  gh_user: arjunssharma
+  repo: Disk-Based-Mergesort
+  desc: Implemented three flavors of Disk based Merge sort: Basic, Multi-step and Replacement Selection Merge Sort to sort a large binary index file of integer key values. Improved sorting of large data files that can not fit in the main memory of system. Investigated the performance of different algorithms for creating and merging runs during Merge Sort.
+  
+- name: B-Trees
+  gh_user: arjunssharma
+  repo: B-Trees
+  desc: Created and managed a binary index file of integer key values as a B-tree supporting add, search and print operations. Investigated the performance by changing the order of the tree.
