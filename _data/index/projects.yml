@@ -9,11 +9,6 @@
 - name: Happy Hearts Fund
   desc: Teamed up with Happy Hearts Fund (HHF) as a part of the Technology for Social Good initiative of JP Morgan Chase & Co. which is based in New York, which rebuilds safe, resilient schools in areas impacted by natural disasters. Worked with the organization to provide technology solutions to real world challenges.
 
-- name: Chord Protocol
-  gh_user: arjunssharma
-  repo: Chord-Protocol
-  desc: Implemented Chord protocol using Java with reference to a research paper named Chord: A scalable peer-to-peer lookup service for internet applications. https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf
-
 - name: Open Source Contribution – ‘Expertiza’
   gh_user: arjunssharma
   repo: expertiza
