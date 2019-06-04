@@ -1,6 +1,9 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Adjustments Convergence
+  desc: Developed a Java based web application integrated with Hadoop and deployed on an ABB Cloud Server that provides Operational users informational views and access to relevant tools and reports to streamline activities. Designed an extensive rich presentation layer and GUI framework using HTML, CSS, Sencha ExtJS, and AJAX. Customized Apache POI Streaming Java API as per the functional requirements. Implemented an Asynchronous Task Framework with Queues and Thread Pools to execute resource intensive tasks. Spearheaded the use of SonarQube platform for analysing code quality and fixing bugs, logical errors and vulnerabilities.
+
 - name: Stock Prediction Using Twitter Sentiment Analysis
   gh_user: arjunssharma
   repo: Stock-Prediction-Using-Twitter-Sentiment-Analysis
@@ -24,6 +27,11 @@
   repo: Chord-Protocol
   desc: Implemented Chord protocol using Java with reference to a research paper named Chord, A scalable peer-to-peer lookup service for internet applications (https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf).
 
+- name: P2P System with Centralized Index
+  gh_user: arjunssharma
+  repo: P2P-Centralized-Index
+  desc: Designed and implemented a file sharing system for downloading RFCs using Java. Implemented a multi-threaded server for concurrency that is capable of carrying out communication with multiple clients simultaneously. Peer to Server application protocol was implemented to make sure that peers and server follow precisely the specifications for their side of the protocol in order to accomplish particular tasks. Peer to Peer application protocol was implemented in a format similar to HTTP protocol to facilitate the P2P communication. 
+  
 - name: Citation KNN
   gh_user: arjunssharma
   repo: Citation-KNN
@@ -33,12 +41,20 @@
   gh_user: arjunssharma
   repo: Disk-Based-Mergesort
   desc: Implemented three flavors of Disk based Merge sort viz Basic, Multi-step and Replacement Selection Merge Sort to sort a large binary index file of integer key values. Improved sorting of large data files that can not fit in the main memory of system. Investigated the performance of different algorithms for creating and merging runs during Merge Sort.
+
+- name: Mobile Application Development – ‘Make Soil’
+  desc: Developed native application for Android and iOS using React Native, and Firebase for authentication and data storage.
   
 - name: B-Trees
   gh_user: arjunssharma
   repo: B-Trees
   desc: Created and managed a binary index file of integer key values as a B-tree supporting add, search and print operations. Investigated the performance by changing the order of the tree.
 
+- name: Car Rental Web App
+  gh_user: arjunssharma
+  repo: Car-Rental-App
+  desc: Performed full stack development on JetBrains using Ruby on Rails with RESTful web services for data access and view. The application has functionalities like creating users profile, allowing different levels of access to different users based on user type (super-admin, admin, users, etc.), searching cars, automatic reservation, email notification, minimum rental period, time elasticity, displaying previous bookings, deleting user’s profile, managing reservations and cars. Deployed this app on Heroku cloud application platform with PostgreSQL and multi-process concurrency configurations.
+  
 - name: In-Memory Indexing with Availability Lists
   gh_user: arjunssharma
   repo: In-Memory-Indexing-with-Availability-Lists
@@ -53,3 +69,15 @@
   gh_user: arjunssharma
   repo: SimpleDB
   desc: Implemented the Least Recently Used (LRU) replacement policy for buffer management in a multi-user transactional database (SimpleDB) for improved performance. This policy aims at making a rough prediction of future hits for the pages in buffer and reduces page faults to an extent. Implemented Map interface and Log Sequence Numbers (LSNs) for faster retrieval of pages.
+  
+- name: Cost of Funding Engine (COFE) Re-Platform
+  desc: Developed an application to calculate “cost of use” or “credit for provision” of a business unit’s fund. Intended to remove the Interest Rate Risk from the business Units and transfers to Treasury, who performs legal entity risk management activities. Designed a common business transformation rules framework in Ab-Initio (graphs) with reusable rules across multiple feeds, multiple regions of LRI regulatory reporting and programs (LRI, BASEL). Create UNIX wrapper scripts to run the deployed Ab-Initio code (graphs and plans) and Schedule jobs using Control M. Enhanced the performance in both Ab-Initio/Unix and SQL code to leverage maximum benefit of Ab-Initio and to minimize the database interactions. Responsible for code migration with an in house developed tool – Vader. Build centralized repository for loading the various reports like Acceptance / Reject /Filter /Validation Reports. Automated a module using Java which eliminated manual work involved in migration and generation of EME objects.
+  
+- name: Institution Securities Health Scorecard (ISHS)
+  desc: Created a java based web application named Securities Core Processing Platform (SCPP) providing clients with an integrated solution for clearing, settlement, custody and asset servicing in over 100 markets. Implemented bank-wide utilities for corporate actions, income processing, tax reclaim processing, position management and trade settlements. Developed dynamic Web Pages using AJAX with JSP and Servlet using JQuery to display a detailed view of Component backlog on a single screen, to reduce the effort of the monitoring, alerting, failure detection and reporting of the various components in the system. Launched this tool which is used as an alerting framework, giving a single shot view of different flows coming into strategic SCPP Environment.
+  
+- name: Home Automation
+  desc: Designed a home automation system that is controlled using an Android mobile application and Bluetooth wireless communication protocol, interfaced to the 8051 microcontroller. Programmed the microcontroller using embedded C to serially communicate with Bluetooth devices to generate respective output based on the input data to operate the loads through a relay driver integrated circuit.
+    
+- name: Online Auction System
+  desc: Developed a web application with functionalities implemented like secure login session, managing description, auction status and bids on items, searching items, email notification using SMTP protocol.
