@@ -12,7 +12,7 @@
 - name: Open Source Contribution – ‘Expertiza’
   gh_user: arjunssharma
   repo: expertiza
-  desc: Expertiza is a web application where students can submit and peer-review learning objects (articles, code, web sites, etc). Instructors use this portal for posting assignments and grading them. Students use it for discussion forums and managing their academic projects. The Expertiza project is supported by the National Science Foundation. 
+  desc: Expertiza is a web application where students can submit and peer-review learning objects (articles, code, web sites, etc). Instructors use this portal for posting assignments and grading them. Students use it for discussion forums and managing their academic projects. The Expertiza project is supported by the National Science Foundation. Contributed by adding new functionalities and fixing existing bugs in the system. http://wiki.expertiza.ncsu.edu/index.php/CSC/ECE_517_Fall_2017/E1767_Improve_imports Implemented the prototype design pattern for functionality of importing the teams of students signing up for a given assignment of a course using RoR, SOLID principles for better architecture and Docker to setup the environment.
 
 - name: Simple FTP using UDP (Sliding Window & Go-Back N ARQ)
   gh_user: arjunssharma
@@ -39,7 +39,17 @@
   repo: B-Trees
   desc: Created and managed a binary index file of integer key values as a B-tree supporting add, search and print operations. Investigated the performance by changing the order of the tree.
 
-- name: In Memory Indexing with Availability Lists
+- name: In-Memory Indexing with Availability Lists
   gh_user: arjunssharma
   repo: In-Memory-Indexing-with-Availability-Lists
   desc: Implemented an in-memory indexing scheme to improve search efficiency of large data files containing organized records(using field delimiters). Designed in-memory availability lists to support the reallocation of space for records that are deleted using first-fit, best-fit and worst-fit algorithms to reduce internal and external fragmentation.
+
+- name: Assignment Management System (AMS) Database Application
+  gh_user: arjunssharma
+  repo: Assignment-Management-System
+  desc: Designed the relational database based on objectives of this application and visualized the primary structure with E-R diagram. Implemented an online/offline portal for management of homework assignments and submissions for different courses taken by student using SQL and Java.
+  
+- name: 
+  gh_user: arjunssharma
+  repo: 
+  desc: Designed the relational database based on objectives of this application and visualized the primary structure with E-R diagram. Implemented an online/offline portal for management of homework assignments and submissions for different courses taken by student using SQL and Java.
