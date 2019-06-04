@@ -52,7 +52,7 @@
     detail: July 2019
     i18n: company_d_date
   job:
-    detail: > 
+    detail: |
         Software Development Engineer
         Washington DC Metro Area
     i18n: company_d_job
