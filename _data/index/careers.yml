@@ -28,15 +28,33 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-
 - name:
     detail: IBM
+    i18n: company_c
+  desc:
+    detail: • Work in an Agile, collaborative environment to understand requirements, design, code, and test innovative applications, and support those applications for our highly valued customers. \n
+• Create products that provide a great user experience along with high performance, security, quality, and stability. \n
+• Opportunity to work with a variety of relational databases (SQL, Postgres, DB2, MongoDB), operating systems (Linux, Windows, iOS, Android), and modern UI frameworks (Backbone.js, AngularJS, React, Ember.js, Bootstrap, Node.js, and JQuery). \n
+• Work across the entire system architecture, from backend to front end, to design, develop, and support high quality and scalable products. Create everything from mockups and UI components to algorithms and data structures as you deliver a complete minimally viable product. \n
+• Automated the generation of Inventory Recon Tracking report based on vulnerability and severity using Java. \n
+• Designed and Implemented slack based chatbot using Watson assistant and conversation services to support security tooling and conceptual FAQs based on Security Operations runbook, WCP Security Policy, and ITSS. \n
+    i18n: company_b_desc
+  date:
+    detail: February 2019 - May 2019
+    i18n: company_c_date
+  job:
+    detail: Software Developer Co-Op
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Amazon Web Services
     i18n: company_c
   desc:
     detail: 
     i18n: company_b_desc
   date:
-    detail: February 2019 - Present
+    detail: July 2019
     i18n: company_c_date
   job:
     detail: Software Developer Co-Op
