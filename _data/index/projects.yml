@@ -4,6 +4,11 @@
 - name: Adjustments Convergence
   desc: Developed a Java based web application integrated with Hadoop and deployed on an ABB Cloud Server that provides Operational users informational views and access to relevant tools and reports to streamline activities. Designed an extensive rich presentation layer and GUI framework using HTML, CSS, Sencha ExtJS, and AJAX. Customized Apache POI Streaming Java API as per the functional requirements. Implemented an Asynchronous Task Framework with Queues and Thread Pools to execute resource intensive tasks. Spearheaded the use of SonarQube platform for analysing code quality and fixing bugs, logical errors and vulnerabilities.
 
+- name: Open Source Contribution – ‘Expertiza’
+  gh_user: arjunssharma
+  repo: expertiza
+  desc: Expertiza is a web application where students can submit and peer-review learning objects (articles, code, web sites, etc). Instructors use this portal for posting assignments and grading them. Students use it for discussion forums and managing their academic projects. The Expertiza project is supported by the National Science Foundation. Contributed by adding new functionalities and fixing existing bugs in the system. http://wiki.expertiza.ncsu.edu/index.php/CSC/ECE_517_Fall_2017/E1767_Improve_imports Implemented the prototype design pattern for functionality of importing the teams of students signing up for a given assignment of a course using RoR, SOLID principles for better architecture and Docker to setup the environment.
+
 - name: Stock Prediction Using Twitter Sentiment Analysis
   gh_user: arjunssharma
   repo: Stock-Prediction-Using-Twitter-Sentiment-Analysis
@@ -11,11 +16,6 @@
   
 - name: Happy Hearts Fund
   desc: Teamed up with Happy Hearts Fund (HHF) as a part of the Technology for Social Good initiative of JP Morgan Chase & Co. which is based in New York, which rebuilds safe, resilient schools in areas impacted by natural disasters. Worked with the organization to provide technology solutions to real world challenges.
-
-- name: Open Source Contribution – ‘Expertiza’
-  gh_user: arjunssharma
-  repo: expertiza
-  desc: Expertiza is a web application where students can submit and peer-review learning objects (articles, code, web sites, etc). Instructors use this portal for posting assignments and grading them. Students use it for discussion forums and managing their academic projects. The Expertiza project is supported by the National Science Foundation. Contributed by adding new functionalities and fixing existing bugs in the system. http://wiki.expertiza.ncsu.edu/index.php/CSC/ECE_517_Fall_2017/E1767_Improve_imports Implemented the prototype design pattern for functionality of importing the teams of students signing up for a given assignment of a course using RoR, SOLID principles for better architecture and Docker to setup the environment.
 
 - name: Simple FTP using UDP (Sliding Window & Go-Back N ARQ)
   gh_user: arjunssharma
