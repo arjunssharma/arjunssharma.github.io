@@ -19,7 +19,7 @@
   repo: SimpleFTP
   desc: Implemented a transport layer service such as reliable data transfer in user space over the unreliable UDP protocol using Go-back-N ARQ scheme. To evaluate the performance, probabilistic loss service was implemented at the server in order to simulate packet loss in the network.
   
-- name: 
+- name: Chord Distributed Hash Protocol
   gh_user: arjunssharma
-  repo: 
-  desc: 
+  repo: Chord-Protocol
+  desc: Implemented Chord protocol using Java with reference to a research paper named Chord, A scalable peer-to-peer lookup service for internet applications (https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf).
