@@ -33,7 +33,7 @@
     i18n: company_c
   desc:
     detail: Work in an Agile, collaborative environment to understand requirements, design, code, and test innovative applications, and support those applications for our highly valued customers. Create products that provide a great user experience along with high performance, security, quality, and stability. Opportunity to work with a variety of relational databases (SQL, Postgres, DB2, MongoDB), operating systems (Linux, Windows, iOS, Android), and modern UI frameworks (Backbone.js, AngularJS, React, Ember.js, Bootstrap, Node.js, and JQuery). Work across the entire system architecture, from backend to front end, to design, develop, and support high quality and scalable products. Create everything from mockups and UI components to algorithms and data structures as you deliver a complete minimally viable product. Automated the generation of Inventory Recon Tracking report based on vulnerability and severity using Java. Designed and Implemented slack based chatbot using Watson assistant and conversation services to support security tooling and conceptual FAQs based on Security Operations runbook, WCP Security Policy, and ITSS.
-    i18n: company_b_desc
+    i18n: company_c_desc
   date:
     detail: February 2019 - May 2019
     i18n: company_c_date
@@ -44,14 +44,14 @@
 
 - name:
     detail: Amazon Web Services
-    i18n: company_c
+    i18n: company_d
   desc:
     detail: 
-    i18n: company_b_desc
+    i18n: company_d_desc
   date:
     detail: July 2019
-    i18n: company_c_date
+    i18n: company_d_date
   job:
     detail: Software Development Engineer
-    i18n: company_c_job
+    i18n: company_d_job
   icon: fa-plus-square
