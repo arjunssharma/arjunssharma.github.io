@@ -6,6 +6,10 @@
   repo: Stock-Prediction-Using-Twitter-Sentiment-Analysis
   desc: Performed real-time sentiment analysis of large volume and variety of data using Apache Flume, MapReduce, Hive and predicted stock prices using Rule-Based Model.
   
+- name: Happy Hearts Fund
+  gh_user: arjunssharma
+  desc: Teamed up with Happy Hearts Fund (HHF) as a part of the Technology for Social Good initiative of JP Morgan Chase & Co. which is based in New York, which rebuilds safe, resilient schools in areas impacted by natural disasters. Worked with the organization to provide technology solutions to real world challenges.
+
 - name: Chord Protocol
   gh_user: arjunssharma
   repo: Chord-Protocol
@@ -20,12 +24,7 @@
   gh_user: arjunssharma
   repo: Distributed-Scoreboard
   desc: Designed distributed gameboard using ZooKeeper protocol having two types of process: i) a watcher which runs continuously displaying most recent scores, and highest scores along with if the player is online or not and updating the lists in real time. ii) a player which performs one of the three actions: join, leave, or post a score.
-  
-- name: 
-  gh_user: arjunssharma
-  repo: 
-  desc: 
-  
+    
 - name: 
   gh_user: arjunssharma
   repo: 
