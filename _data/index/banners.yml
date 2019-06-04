@@ -4,15 +4,3 @@
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/arjun1.jpg
   title: first banner image
-
-- src: landing/arjun2.png
-  title: second banner image
-  
-- src: landing/arjun3.png
-  title: third banner image
-
-- src: landing/arjun4.png
-  title: forth banner image
-
-- src: landing/arjun5.png
-  title: fifth banner image  
