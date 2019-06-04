@@ -53,5 +53,6 @@
     i18n: company_d_date
   job:
     detail: Software Development Engineer
+    location: Washington DC Metro Area
     i18n: company_d_job
   icon: fa-plus-square
