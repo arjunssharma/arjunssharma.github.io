@@ -7,7 +7,6 @@
   desc: Performed real-time sentiment analysis of large volume and variety of data using Apache Flume, MapReduce, Hive and predicted stock prices using Rule-Based Model.
   
 - name: Happy Hearts Fund
-  gh_user: arjunssharma
   desc: Teamed up with Happy Hearts Fund (HHF) as a part of the Technology for Social Good initiative of JP Morgan Chase & Co. which is based in New York, which rebuilds safe, resilient schools in areas impacted by natural disasters. Worked with the organization to provide technology solutions to real world challenges.
 
 - name: Chord Protocol
