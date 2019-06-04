@@ -31,6 +31,11 @@
   gh_user: arjunssharma
   repo: P2P-Centralized-Index
   desc: Designed and implemented a file sharing system for downloading RFCs using Java. Implemented a multi-threaded server for concurrency that is capable of carrying out communication with multiple clients simultaneously. Peer to Server application protocol was implemented to make sure that peers and server follow precisely the specifications for their side of the protocol in order to accomplish particular tasks. Peer to Peer application protocol was implemented in a format similar to HTTP protocol to facilitate the P2P communication. 
+
+- name: Car Rental Web App
+  gh_user: arjunssharma
+  repo: Car-Rental-App
+  desc: Performed full stack development on JetBrains using Ruby on Rails with RESTful web services for data access and view. The application has functionalities like creating users profile, allowing different levels of access to different users based on user type (super-admin, admin, users, etc.), searching cars, automatic reservation, email notification, minimum rental period, time elasticity, displaying previous bookings, deleting user’s profile, managing reservations and cars. Deployed this app on Heroku cloud application platform with PostgreSQL and multi-process concurrency configurations.
   
 - name: Citation KNN
   gh_user: arjunssharma
@@ -49,11 +54,6 @@
   gh_user: arjunssharma
   repo: B-Trees
   desc: Created and managed a binary index file of integer key values as a B-tree supporting add, search and print operations. Investigated the performance by changing the order of the tree.
-
-- name: Car Rental Web App
-  gh_user: arjunssharma
-  repo: Car-Rental-App
-  desc: Performed full stack development on JetBrains using Ruby on Rails with RESTful web services for data access and view. The application has functionalities like creating users profile, allowing different levels of access to different users based on user type (super-admin, admin, users, etc.), searching cars, automatic reservation, email notification, minimum rental period, time elasticity, displaying previous bookings, deleting user’s profile, managing reservations and cars. Deployed this app on Heroku cloud application platform with PostgreSQL and multi-process concurrency configurations.
   
 - name: In-Memory Indexing with Availability Lists
   gh_user: arjunssharma
